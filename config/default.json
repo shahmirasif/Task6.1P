@@ -1,0 +1,11 @@
+{
+  "name": "iCrowd",
+  "port": 5000,
+  "connection": "mongodb://localhost/",
+  "database": "icrowd",
+  "connectionOptions": {
+    "useNewUrlParser": true,
+    "useUnifiedTopology": true
+  },
+  "mailgun-domain": "sandbox150cfecb162e444b86d940f8674724d2.mailgun.org"
+}
