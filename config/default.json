@@ -7,5 +7,6 @@
     "useNewUrlParser": true,
     "useUnifiedTopology": true
   },
-  "mailgun-domain": "sandbox150cfecb162e444b86d940f8674724d2.mailgun.org"
+  "mailgun-domain": "sandbox150cfecb162e444b86d940f8674724d2.mailgun.org",
+  "mailgunApiKey": "256e8b54207bcab1e65572bef52ca8ee-4d640632-94de8df5"
 }
